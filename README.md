@@ -1,5 +1,4 @@
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/57813196/110001841-d7a35680-7d25-11eb-9db7-ab82655d07e8.gif)
-
-
 # DCGAN-implementation
+
+##Training:
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/57813196/110002610-9f504800-7d26-11eb-9b7f-c37e849b32ab.gif)
