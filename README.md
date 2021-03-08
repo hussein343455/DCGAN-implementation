@@ -14,9 +14,12 @@ gen.pt : generator model
 
 build_zeror_classifier.ipynb : the classifier code used to update the noise vector
 digit_morphing.ipynb :digit morphing code used to create the gif
+
 steps: 
 1. generate images using the DCGAN generator 
 2. get the classifier predictions on the generated images
 3. optimize the noise vector to get the best looking zero image (without updating the generator or classifiers weights)
+
+
 ![22](https://user-images.githubusercontent.com/57813196/110349506-d5057180-8043-11eb-89ad-aa5e793f7f63.gif)
 
