@@ -7,5 +7,11 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/57813196/110002610-9f504800-7d26-11eb-9b7f-c37e849b32ab.gif)
 
 # Morphing generated images into Zero's
+-first i created a classifier using the MNIST dataset ,which classify images into (zero's ,other).
+
+steps: 
+1. generate images using the DCGAN generator 
+2. get the classifier predictions on the generated images
+3. optimize the noise vector to get the best looking zero image (without updating the generator or classifiers weights)
 ![22](https://user-images.githubusercontent.com/57813196/110349506-d5057180-8043-11eb-89ad-aa5e793f7f63.gif)
 
