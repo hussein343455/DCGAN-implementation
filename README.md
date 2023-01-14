@@ -1,4 +1,7 @@
 # DCGAN-implementation
+Trained DCGAN on MNIST dataset to generate novel images of handwritten digits, Optimized the noise vector to manipulate generated images to morph into different digits.
+
+
 -an implementation of DCGAN to create new images of numbers, the network is trained on the MINST dataset for (21000 steps) but it can be trained for longer to get better results.
 
 
